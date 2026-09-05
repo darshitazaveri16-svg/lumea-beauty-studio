@@ -1,117 +1,247 @@
 # ✨ LUMÉA Beauty Studio
 
-> **Beauty • Style • Confidence**
+<p align="center">
+  <strong>Beauty • Style • Confidence</strong>
+</p>
 
-A modern, elegant and fully responsive beauty studio website designed for salons, beauty studios and independent beauty professionals.
+<p align="center">
+  A modern, elegant and responsive beauty studio website designed to give
+  salons and beauty businesses a premium online presence.
+</p>
 
-LUMÉA combines a premium editorial-style design with practical customer features such as service browsing, pricing, appointment booking, WhatsApp integration and location details.
-
----
-
-## 🌸 About the Project
-
-**LUMÉA Beauty Studio** is a frontend web project created to demonstrate how a local beauty business can establish a professional online presence.
-
-The website focuses on:
-
-- Elegant and modern visual design
-- Clear presentation of services and pricing
-- Simple appointment booking
-- Direct WhatsApp communication
-- Mobile-first responsiveness
-- Smooth user experience
-- Easy customization for real businesses
-
-The project is also designed as a **reusable business website template** that can be adapted for salons, makeup artists, nail studios, spas and other beauty-focused businesses.
+<p align="center">
+  <a href="https://lumea-beauty-studio-three.vercel.app/" target="_blank">
+    🌐 Live Demo
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/darshitazaveri16-svg/lumea-beauty-studio" target="_blank">
+    💻 Source Code
+  </a>
+</p>
 
 ---
 
-## ✨ Key Features
+## 🌸 Overview
 
-### 🏠 Premium Homepage
-A visually focused hero section introduces the brand with clear calls-to-action for booking appointments and exploring services.
+**LUMÉA Beauty Studio** is a modern frontend website concept created for
+beauty salons, studios, makeup artists and other personal-care businesses.
+
+The website combines a clean luxury-inspired visual style with practical
+features that help a business present its services, prices, work and contact
+information online.
+
+The project is designed to be **responsive, lightweight, easy to customize
+and ready for deployment**.
+
+---
+
+## 🌐 Live Website
+
+### [✨ Visit LUMÉA Beauty Studio](https://lumea-beauty-studio-three.vercel.app/)
+
+The project is deployed using **Vercel** and connected to its GitHub
+repository for version-controlled development and deployment.
+
+---
+
+## ✨ Features
+
+### 🏠 Premium Hero Section
+
+A visually focused landing section introducing the LUMÉA brand with:
+
+- Brand tagline
+- Primary call-to-action
+- Secondary service CTA
+- Experience statistics
+- High-quality beauty imagery
+
+---
 
 ### 💇 Services
-Services are organized into clear categories including:
+
+A dedicated services section covering four major categories:
 
 - Hair
 - Skin
 - Makeup
 - Nails
 
+Each category includes a short description and starting price.
+
+---
+
 ### 💰 Pricing
-A dedicated pricing section allows customers to quickly understand service options and starting prices.
 
-### 🖼️ Gallery
-A responsive image gallery showcases the studio's beauty and styling work.
+A dedicated pricing section presents individual services with clear pricing
+and booking actions.
 
-### 💬 Testimonials
-Customer testimonials help build trust and provide social proof.
+Current demo services include:
+
+| Service | Price |
+|---|---:|
+| Hair Styling | ₹499 |
+| Hair Spa | ₹999 |
+| Glow Facial | ₹799 |
+| Party Makeup | ₹1,499 |
+| Bridal Makeup | ₹7,999 |
+| Manicure | ₹599 |
+
+> **Note:** These prices are demonstration content and can be replaced with
+> real business pricing.
+
+---
+
+### 🖼️ Beauty Gallery
+
+A responsive image gallery showcases beauty, styling and salon-related
+visuals.
+
+The gallery adapts across desktop, tablet and mobile layouts.
+
+---
+
+### 💬 Client Testimonials
+
+A dedicated testimonial section provides social proof through sample
+customer reviews and service references.
+
+---
 
 ### 👩 About LUMÉA
-An editorial-style brand section communicates the studio's philosophy, experience and client-focused approach.
+
+An editorial-style About section communicates the brand's approach to
+personalized beauty and client experience.
+
+It also highlights:
+
+- Happy clients
+- Years of experience
+- Brand philosophy
+
+---
 
 ### 📅 Appointment Booking
-Customers can submit:
+
+The website includes a simple appointment form where visitors can enter:
 
 - Name
-- Selected service
+- Service
 - Preferred date
 
-The booking information can then be sent directly through WhatsApp.
+After submission, the booking details are formatted into a WhatsApp message
+for the business.
+
+This provides a simple appointment-enquiry workflow without requiring a
+separate backend.
+
+---
 
 ### 📱 WhatsApp Integration
-A floating WhatsApp button provides customers with a quick way to contact the studio.
 
-### 📍 Location
-The contact section includes a Google Maps location embed for easier navigation.
+A floating WhatsApp button provides visitors with a direct communication
+channel.
+
+The appointment form also opens WhatsApp with the customer's selected
+booking information.
+
+> The current deployment uses demo contact information. Replace it with the
+> real business WhatsApp number before using the website for a client.
+
+---
+
+### 📍 Location & Contact
+
+The contact section provides:
+
+- Business address
+- Phone number
+- Opening hours
+- Embedded Google Maps location
+
+The current location information is demonstration content and is intended to
+be customized for the final business.
+
+---
 
 ### 📱 Responsive Design
-The website is optimized for:
+
+The interface is designed to work across:
 
 - Desktop
+- Laptop
 - Tablet
 - Mobile
 
-### ✨ UI Animations
-Subtle hover effects, transitions and scroll behavior provide a polished user experience without making the interface feel excessive.
-
-### 🔎 SEO Metadata
-The project includes page title, description, keywords and author metadata for better search-engine and browser presentation.
+Responsive navigation includes a mobile hamburger menu for smaller screens.
 
 ---
 
-## 🛠️ Tech Stack
+### ✨ UI Interactions
 
-| Technology | Purpose |
-|------------|---------|
-| **React** | User interface |
-| **Vite** | Development and production build tooling |
-| **JavaScript** | Application logic |
-| **Tailwind CSS** | Styling and responsive layout |
-| **Lucide React** | Interface icons |
-| **HTML5** | Page structure |
-| **CSS3** | Custom styling and animations |
-| **Git & GitHub** | Version control |
+The project uses subtle animations and transitions for:
+
+- Hero content
+- Service cards
+- Gallery images
+- Buttons
+- Hover interactions
+- Smooth scrolling
+
+The design intentionally keeps animations subtle to maintain a premium feel.
 
 ---
 
-## 🎨 Design Philosophy
+## 🎨 Design Direction
 
-The LUMÉA interface follows a **minimal luxury aesthetic**.
+LUMÉA follows a **minimal luxury beauty aesthetic**.
 
-The design focuses on:
+### Design principles
 
-- Neutral tones
-- Editorial typography
+- Neutral stone-based color palette
+- Editorial-style typography
+- Large photography
 - Spacious layouts
 - Rounded cards
-- Large photography
-- Subtle animations
+- Clean navigation
 - Strong visual hierarchy
-- Simple call-to-action elements
+- Minimal interface clutter
+- Elegant hover effects
 
-The goal is to make the website feel **premium without being complicated**.
+The goal is to create a website that feels **premium, calm and modern** while
+remaining easy to navigate.
+
+---
+
+## 🛠️ Technology Stack
+
+| Technology | Role |
+|---|---|
+| **React** | Component-based user interface |
+| **Vite** | Development server and production build |
+| **JavaScript** | Application logic |
+| **Tailwind CSS** | Responsive styling and layout |
+| **Lucide React** | UI icons |
+| **HTML5** | Semantic page structure |
+| **CSS3** | Custom animations and styling |
+| **Git** | Version control |
+| **GitHub** | Source code hosting |
+| **Vercel** | Production deployment |
+
+---
+
+## 📦 Dependencies
+
+The project currently uses:
+
+- `react`
+- `react-dom`
+- `vite`
+- `tailwindcss`
+- `@tailwindcss/vite`
+- `lucide-react`
+
+See [`package.json`](./package.json) for the complete dependency configuration.
 
 ---
 
@@ -127,8 +257,10 @@ lumea-beauty-studio/
 │   ├── index.css
 │   └── ...
 │
+├── .gitignore
+├── eslint.config.js
 ├── index.html
+├── package-lock.json
 ├── package.json
-├── vite.config.js
 ├── README.md
-└── ...
+└── vite.config.js
